@@ -1,0 +1,13 @@
+body{
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+}
+.showpink{
+	text-align: left;
+	color: pink;
+}
+
+#bday{
+	color: gray;
+	text-align: right;
+}
